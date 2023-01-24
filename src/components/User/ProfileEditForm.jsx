@@ -101,7 +101,6 @@ const ProfileEditForm = ({ onCloseForm }) => {
         <label htmlFor="Nationality">Nationality</label>
          <Box sx={{ minWidth: 120 }}>
          <FormControl  variant="standard" fullWidth>
-        <InputLabel id="demo-customized-select-label">Nationality</InputLabel>
         <Select
           labelId="demo-customized-select-label"
           id="demo-customized-select"
